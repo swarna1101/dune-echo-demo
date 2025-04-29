@@ -4,6 +4,8 @@
 
 A modern, real-time portfolio tracker powered by Dune's Echo API. Monitor token balances and transactions across multiple chains with a sleek, responsive interface.
 
+![](ui.png)
+
 ## Features
 
 ### Portfolio Tracking
