@@ -1,5 +1,7 @@
 # Dune Echo Demo
 
+*A showcase for **Dune Echo** — the sub-100 ms, 50 +-chain API that streams live balances, prices and activity through a single REST call.*
+
 A modern, real-time portfolio tracker powered by Dune's Echo API. Monitor token balances and transactions across multiple chains with a sleek, responsive interface.
 
 ## Features
@@ -42,7 +44,7 @@ GET https://api.dune.com/api/echo/beta/tokens/evm/{contract_address}
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/dune-echo-demo.git
+git clone https://github.com/swarna1101/dune-echo-demo.git
 ```
 
 2. Install dependencies
@@ -60,11 +62,3 @@ REACT_APP_DUNE_API_KEY=your_api_key_here
 npm start
 ```
 
-## Tech Stack
-
-- React 18
-- TypeScript
-- Dune Echo API
-- Ethers.js
-- Recharts
-- Web3 Tools
